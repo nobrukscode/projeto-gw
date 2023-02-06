@@ -1,0 +1,21 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:faker": "node C:/Users/brulo/OneDrive/Documentos/DEV/Cypress/cypress/e2e/run_tests.js",
+    "test:cypress": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  },
+  "dependencies": {
+    "faker": "^5.5.3",
+    "faker-br": "^0.4.1",
+    "node-cpf": "^1.2.4"
+  }
+}
